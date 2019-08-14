@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Navegg_Analytics",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Know your store's audience by gender, age, income, purchase intent and much more.",
+    "authors": [
+    {
+        "name": "Navegg",
+        "email": "it@navegg.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
